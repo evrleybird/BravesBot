@@ -55,7 +55,7 @@ You must install the required dependencies with:
 ```sh
 pip install -r requirements.txt
 ```
-or, for just Discord.py:
+and, for Discord.py:
 ```sh
 pip install discord.py
 ```
